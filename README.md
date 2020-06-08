@@ -1,3 +1,6 @@
+## Project
+Boilerplate in MERN with redux and jwt
+
 ## Configuration
 
 Copy your mongodbURI
